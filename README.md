@@ -1,4 +1,6 @@
 # 微信小程序罗列
+github地址: <https://github.com/strongant/minapp>,欢迎star，欢迎issue：<https://github.com/strongant/minapp/issues>，如果你还知道其它的小程序欢迎发送PR：<https://github.com/strongant/minapp/pulls>。
+
 **可以在微信的小程序菜单通过小程序名称搜索即可获取小程序**
 
 ***以下内容不定期更新***
