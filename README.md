@@ -80,3 +80,6 @@ github地址: <https://github.com/strongant/minapp>,欢迎star，欢迎issue：<
 * 表情家园
 * 100房贷助手
 * 智慧气象服务
+
+## 微信小程序首批公测TOP100
+![](http://i1.piimg.com/567571/f70534ad259694a3.jpg)
