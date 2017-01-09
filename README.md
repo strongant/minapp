@@ -82,4 +82,4 @@ github地址: <https://github.com/strongant/minapp>,欢迎star，欢迎issue：<
 * 智慧气象服务
 
 ## 微信小程序首批公测TOP100
-![](http://i1.piimg.com/567571/f70534ad259694a3.jpg)
+![](http://mmbiz.qpic.cn/mmbiz_jpg/bLPd4tHRLu5icfdMXg886RV189GWQ7jXpRXIaicDJ0fT8rBdgZx4Yu2OUtTbHxibrxPgciaxB3GEaFmwkgSGXGOHVA/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1)
